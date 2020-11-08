@@ -78,6 +78,7 @@ public class Graduate implements StudentInterface, TeacherInterface{
 }
 六、实验结果
 
+https://github.com/Wanghongbo0633/shiyan4/blob/main/%E7%BB%93%E6%9E%9C.PNG
 
 七、实验感想
 
